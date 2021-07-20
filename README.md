@@ -9,5 +9,5 @@ A little bit about me:
 - 🌱 I’m currently learning ruby on rails.
 - ✨I love python and javascript.
 - 📫 How to reach me: ig: diana.basiliobel
-- ⚡ Fun fact: Besides programming I really enjoy math, the space, physics, electronics and music.
+- ⚡ Fun fact: Besides programming I really enjoy math, astronomy, physics, electronics and music.
 
