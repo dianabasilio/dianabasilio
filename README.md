@@ -12,6 +12,7 @@ A little bit about me:
 
 I haven´t deployed most of my projects but here are some of them:
 
-http://mercadoliebrediana.herokuapp.com/
-https://mathu-asesorias.herokuapp.com
+- http://mercadoliebrediana.herokuapp.com/
+
+- https://mathu-asesorias.herokuapp.com
 
