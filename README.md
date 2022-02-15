@@ -11,6 +11,7 @@ A little bit about me:
 - ⚡ Fun fact: Besides programming I really enjoy math, astronomy, physics, electronics and music.
 
 I haven´t deployed most of my projects but here are some of them:
+- https://bijoux-joyeria.herokuapp.com
 
 - http://mercadoliebrediana.herokuapp.com/
 
