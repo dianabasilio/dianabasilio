@@ -6,7 +6,7 @@
 A little bit about me:
 
 - 🔭 My name is Diana Basilio.
-- ✨I love python, javascript, ruby on rails and php.
+- ✨I love python, javascript, react js and php.
 - 📫 How to reach me: ig: diana.basiliobel , mail: dianabasilio99@gmail.com
 - ⚡ Fun fact: Besides programming I really enjoy math, astronomy, physics, electronics and music.
 
